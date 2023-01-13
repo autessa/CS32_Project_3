@@ -1,2 +1,2 @@
 # CS32_Project_3
-SuperPeach Sisters
+SuperPeach Sisters - Inheritance and Polymorphism
